@@ -4,6 +4,6 @@
 #include "Arduino.h"
 
 void seg7_init(uint8_t*);
-void seg7(int);
+void seg7(int num);
 
 #endif
